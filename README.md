@@ -1,2 +1,2 @@
 # MarkdownPhotos
-Hxo博客图床
+Hexo博客图床
